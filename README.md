@@ -14,7 +14,7 @@ Computer Science student | Python & C Programmer
 - Create real-world projects
 - Secure internships
 
-📫 Reach me: LinkedIn | Email: Ayush121017@gmail.com
+📫 Reach me: LinkedIn: www.linkedin.com/in/ayushk-singh/ | Email: Ayush121017@gmail.com
 
 <!--
 **DevGr8/DevGr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
