@@ -14,8 +14,6 @@ Computer Science student | Python & C Programmer
 - Create real-world projects
 - Secure internships
 
-📫 Reach me: LinkedIn: www.linkedin.com/in/ayushk-singh/ | Email: Ayush121017@gmail.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/DevGr8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DevGr8" height="30" width="40" /></a>
