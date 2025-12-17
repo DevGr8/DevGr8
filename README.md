@@ -2,8 +2,8 @@ Hi, I'm Ayush 👋
 Computer Science student | Python & C Programmer
 
 🔹 Currently learning:
-- Data Structures in C
-- Python for automation & CLI tools
+- JavaScript
+- Python
 
 🔹 Tech Stack:
 - Languages: Python, C, HTML, CSS
